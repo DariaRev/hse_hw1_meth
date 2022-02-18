@@ -2,7 +2,7 @@
 
 [Ссылка на колаб](https://colab.research.google.com/drive/1M3cKutOufZlpK8SJ6AS5_NiXjytYNR5h?usp=sharing)
 
-[Отчет Fastqc]()
+### Отчет Fastqc в папке html
 
 ## Отличия
 Можно заметить, что немного отличается GC-состав от того, что мы видели до этого. 
